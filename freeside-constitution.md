@@ -1,6 +1,6 @@
 
 
-# C O N S T I T U T I O N    O F   F R E E S I D E
+# CONSTITUTION OF FREESIDE
 ## University of Hull student Linux Cluster, 2016
 
 #### BACKGROUND
