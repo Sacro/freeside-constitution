@@ -1,19 +1,19 @@
 
 
-# CONSTITUTION OF FREESIDE
-## University of Hull student Linux Cluster, 2016
+	      C O N S T I T U T I O N    O F   F R E E S I D E
+	       University of Hull student Linux Cluster, 2016
 
-#### BACKGROUND
+  BACKGROUND
 
-Freeside is a student run non-profit organisation that was created in the
-late 1990s. Many students have taken the role of leaderhsip for the
-organisation, some leaderships ending in distater for the group and others
-allowing it to thrive. This constitution is being written to ensure that a
-fair and well-functioning leadership will be given to Freeside for the
-foreseeable future. It also serves as a record of ethical conduct within
-the group.
+  Freeside is a student run non-profit organisation that was created in the
+  late 1990s. Many students have taken the role of leaderhsip for the
+  organisation, some leaderships ending in distater for the group and others
+  allowing it to thrive. This constitution is being written to ensure that a
+  fair and well-functioning leadership will be given to Freeside for the
+  foreseeable future. It also serves as a record of ethical conduct within
+  the group.
 
-### DEFINITIONS
+  DEFINITIONS
 
   'students'		- Current or Alumi students of the University of Hull
   'FOSS'		- Free and Open Source Software
