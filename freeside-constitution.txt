@@ -75,7 +75,7 @@
 
       2.2.4  Members will take any precaution necessary to ensure that POE is
              not damaged or lost, failure to do so may result in loss of
-	     memebership and access rights.
+	     membership and access rights.
 
 
   3. APPOINTING LEADERSHIP
