@@ -29,7 +29,7 @@
 
   'office'		- The room that Freeside currently resides in
 
-  'students'            - Current or Alumi students of the University of Hull
+  'students'            - Current or Alumni students of the University of Hull
 
 
   1. PURPOSE OF ORGANISATION
